@@ -50,3 +50,7 @@ ggplot(final,aes(x=customer_id, y=total_profit,))+
   labs(title = 'Barchart Total Profit from 10 Customer with the Biggest Sales',
        subtitle = 'Based on 2015 Report')+
   theme(plot.title = element_text(size = 12, face='bold'))
+
+
+
+
